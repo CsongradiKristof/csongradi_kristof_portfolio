@@ -2,7 +2,7 @@ body
 {
 	background-color: black;
 	margin: 5;
-	background-image: url(/képek/háttér.jpg);
+	background-image: url(képek/háttér.jpg);
 	background-size: cover;
 	color: white;
 	font-family: 'Brush Script MT', cursive;
